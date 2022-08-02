@@ -56,3 +56,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'awesome_print'
+
+# 画像 upload 機能を持つライブラリを追加
+gem 'carrierwave'
